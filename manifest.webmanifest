@@ -1,0 +1,11 @@
+{
+  "name": "Mike's Pecs + Abs Workout",
+  "short_name": "Mike's Workout",
+  "description": "A phone-first workout tracker for Mike's pecs and abs sessions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101312",
+  "theme_color": "#101312",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
